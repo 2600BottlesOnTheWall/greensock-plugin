@@ -1,2 +1,2 @@
 # greensock-plugin
-Plugin convert your transform:translate3d arguments from rem to px.
+Plugin let you use transform:translate3d attribute. By default transform:translate3d converted to transform:matrix, that is not always usefull. 
